@@ -69,6 +69,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, please feel free to contact me at [siddhantmishrabusy949@gmail.com](mailto:siddhantmishrabusy949@gmail.com).
 
 Happy calculating!
