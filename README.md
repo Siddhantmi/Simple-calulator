@@ -2,6 +2,10 @@
 
 This is a simple calculator app built using JavaScript, HTML, and CSS. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Here you can see and try it
+
+https://sid-simplecalculator.netlify.app
+
 ## Features
 
 - Addition: Allows users to add two numbers.
